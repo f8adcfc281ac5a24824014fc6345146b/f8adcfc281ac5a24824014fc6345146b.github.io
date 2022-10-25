@@ -1,6 +1,6 @@
 # f8adcfc281ac5a24824014fc6345146b.github.io
 
-Hello! This is the Github repo that backs [https://www.micahlerner.com](https://www.micahlerner.com), using [Github Pages](https://pages.github.com/).
+Hello! This is the Github repo that backs [Twizzlers and Peaches](https://f8adcfc281ac5a24824014fc6345146b.github.io), using [Github Pages](https://pages.github.com/).
 
 The site is built and deployed with [Jekyll](https://jekyllrb.com/). 
 

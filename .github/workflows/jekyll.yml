@@ -3,7 +3,8 @@ name: Build and deploy Jekyll site to GitHub Pages
 on:
   push:
     branches:
-      - ml-fix-script # or master before October 2020
+       - main
+#      - ml-fix-script # or master before October 2020
 
 jobs:
   github-pages:
